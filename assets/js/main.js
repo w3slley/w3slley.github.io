@@ -2,7 +2,7 @@ const nav = document.querySelector('.nav')
 const navItems = document.querySelectorAll('.nav-items')
 
 let options = {
-  strings: ["and I like solving interesting problems^1000", "and I like to write software that helps other people^1000", "and I like Software Engineering, Competitive Programming and Data Analysis^1500", "and welcome to my website!", ],
+  strings: ["and I like solving interesting problems^1000", "and I like to build software that helps other people^1000", "and I like Software Engineering, Competitive Programming and Data Analysis^1500", "and welcome to my website!", ],
   typeSpeed: 40,
   cursorChar: "|",
   backSpeed: 20
