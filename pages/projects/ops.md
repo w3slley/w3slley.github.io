@@ -17,4 +17,6 @@ For a more technical description of the project, [here](https://w3slley.github.i
 
 **Prototype demo**:
 
+As it can be seen in the GIF bellow, the `occupied` state of a node can be simulated by putting up one's hand on top of the sensor, and when there is no obstacles in the front of the sensor, the `free` state is obtained. Again, using a magnetometer to measure changes in the magnetic field around the parking lot and creating a compact and incased prototype are a natural progression for testing the validity of the system.
+
 ![](https://w3slley.github.io/ops/demo.gif)

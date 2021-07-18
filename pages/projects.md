@@ -4,11 +4,15 @@ title: Projects
 permalink: /projects/
 
 projects:
+ - title: Kino
+   slug: kino
+   img_href: /assets/images/kino.svg
+   description: Development of a full-stack movie website using the OMDB API, Node.js, MongoDB and React
+   
  - title: Open Parking System
    slug: ops
    img_href: /assets/images/ops.svg
    description: Development of a monitoring and control system of public parking spots using the internet
-
 
  - title: Personal blog
    slug: personal-blog
