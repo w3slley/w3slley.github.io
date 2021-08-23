@@ -75,7 +75,7 @@ exports.index = function(req, res){
   })
 }
 ```
-I thought that was a clean way to solve the problem, but I'm sure people may very well use other means to accomplish this - and I hope I'm doing this the right way.
+Of course, recursion is only one of the solutions for something like this. Another simple solution would be to use `async/await` with a mysql driver library that returned promises. Since I only had to deal with this once, it was not necessary to download another library. But if that happened often, I'd need to reconsider this option. 
 
 ## Conclusion
 
